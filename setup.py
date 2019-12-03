@@ -7,8 +7,8 @@ import zipfile
 import platform
 from setuptools import setup
 
-VERSION = '1.0.1'
-TERRAFORM_VERSION = '0.12.6'
+VERSION = '2.0.0'
+TERRAFORM_VERSION = '0.12.17'
 
 with open('README.md') as f:
     readme = f.read()
